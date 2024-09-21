@@ -1,0 +1,1 @@
+I believe uk data for properties should be open source so in line with rightmoves terms and conditions i have created this scraper. It will get all the properties listed in the last 14 days for LLM's to train on
